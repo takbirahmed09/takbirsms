@@ -1,1 +1,1 @@
-termux-open-url "https://t.me/takbirapk12a"
+termux-open-url "https://t.me/takbirapk12"
